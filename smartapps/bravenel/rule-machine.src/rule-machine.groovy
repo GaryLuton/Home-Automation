@@ -31,9 +31,9 @@ definition(
 	author: "Bruce Ravenel and Mike Maxwell",
 	description: "Rule Machine",
 	category: "My Apps",
-	iconUrl: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine.png",
-	iconX2Url: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine%402x.png",
-	iconX3Url: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine%402x.png"
+	iconUrl: "http://images.clipartpanda.com/logic-clipart-9TpgbELTE.png",
+	iconX2Url: "http://images.clipartpanda.com/logic-clipart-9TpgbELTE.png",
+	iconX3Url: "http://images.clipartpanda.com/logic-clipart-9TpgbELTE.png"
 )
 
 preferences {

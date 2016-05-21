@@ -49,8 +49,8 @@ definition(
     description: "Rule",
     category: "Convenience",
     parent: "bravenel:Rule Machine",
-	iconUrl: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine.png",
-	iconX2Url: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine%402x.png",
+	iconUrl: "http://images.clipartpanda.com/logic-clipart-9TpgbELTE.png",
+	iconX2Url: "http://images.clipartpanda.com/logic-clipart-9TpgbELTE.png",
 
 )
 
